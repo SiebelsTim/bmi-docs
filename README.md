@@ -5,7 +5,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ### Installation
 
 ```
-$ npm
+$ npm install
 ```
 
 ### Local Development
@@ -27,4 +27,3 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 This site will autodeploy to GitHub Pages based on GitHub Actions.
-

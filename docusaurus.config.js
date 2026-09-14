@@ -124,6 +124,11 @@ const config = {
             label: 'Licence Connect',
           },
           {
+            to: "docs/strukturdaten",
+            position: "left",
+            label: "Strukturdaten",
+          },
+          {
             label: 'APIs',
             position: 'left',
             items: [
